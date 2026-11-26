@@ -27,4 +27,4 @@ repository and rebuilds from scratch.
 > Every statistic needs checking against its original source before it appears in funder
 > reports, grant applications or public material.
 
-Documentation is offered under CC BY 4.0 (proposed; the owner confirms before publishing).
+Documentation is licensed under CC BY 4.0 (see `LICENSE`).
